@@ -80,7 +80,7 @@
 ### 🌐 Connect With ME
 
 <div align="center">
-  <a href="https://swarajportfolio6.netlify.app/" target="_blank">
+  <a href="https://swaraj-portfolio-alpha.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=Planet&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://linkedin.com/in/Swaraj_Prajapati" target="_blank">
