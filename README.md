@@ -132,13 +132,6 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider">
 </div>
 
-### 📂 Featured Projects
-
-| 🚀 Project | 📝 Description | 🛠 Tech |
-|---|---|---|
-| **Modern React Dashboard** | Full-featured web app with state management & responsive design | React, Redux Toolkit, Tailwind CSS |
-| **RESTful API** | Complete backend with CRUD, JWT auth & proper error handling | Node.js, Express, MongoDB |
-| **MongoDB Advanced Queries** | Complex aggregation pipelines & optimized DB operations | MongoDB, Aggregation Framework |
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider">
