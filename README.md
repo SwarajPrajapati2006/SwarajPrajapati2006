@@ -1,3 +1,5 @@
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" alt="tech banner gif" />
+
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00C853&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Swaraj+Prajapati;Aspiring+Full+Stack+Developer;MERN+%7C+Scalable+Web+Apps" alt="Typing SVG" />
@@ -20,23 +22,13 @@
 
 ### 👤 About Me
 
-- 🎓 Pursuing **Bachelor of Engineering in Computer Engineering** at Swaminarayan University, Gujarat
-- 💻 Aspiring **Full Stack Developer** specializing in the **MERN Stack**
-- 🌱 Building real-world scalable applications and exploring **Advanced Backend & System Design**
-- 💡 Passionate about clean **UI/UX** & **performance optimization**
-- 🧠 Strong in **DSA & Problem Solving** — actively grinding [LeetCode](https://leetcode.com/u/Swaraj_Prajapati/)
-- 🤝 Love collaborating and working in **team environments**
-- 🏋️‍♂️ **Fun Fact:** When I'm not coding, you'll find me in the gym crushing **fitness & bodybuilding** goals!
+- 🎓 BE Computer Engineering student at Swaminarayan University | Aspiring MERN Stack Developer passionate about scalable apps, clean UI/UX, DSA, and fitness 🏋️‍♂️
 
 <br clear="right"/>
 
 ### 🌐 Connect With Me
 
 <div align="center">
-  <a href="mailto:swaraj.prajapati.cg@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  &nbsp;
   <a href="https://swaraj-portfolio-alpha.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
@@ -45,12 +37,12 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="https://leetcode.com/u/Swaraj_Prajapati/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-  </a>
-  &nbsp;
   <a href="https://x.com/Swaraj_06" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+  &nbsp;
+  <a href="YOUR_RESUME_LINK_HERE" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" />
   </a>
 </div>
 
@@ -133,17 +125,6 @@
 </div>
 
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider">
-</div>
-
-<div align="center">
-  <p><em>⭐ If you like my work, consider giving a star to my repositories!</em></p>
-  <a href="https://github.com/SwarajPrajapati2006?tab=repositories">
-    <img src="https://img.shields.io/badge/View%20My%20Repos-00C853?style=for-the-badge&logo=github&logoColor=white" alt="View Repos" />
-  </a>
-</div>
-
 <br>
 
 <picture>
@@ -152,4 +133,8 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider">
+</div>
+  <p align="center"><em>⭐ If you like my work, consider giving a star to my repositories!</em></p>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00C853&height=100&section=footer" width="100%"/>
