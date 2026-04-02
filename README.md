@@ -21,7 +21,15 @@
 
 ### 👤 About Me
 
-- 🎓 BE Computer Engineering student at Swaminarayan University | Aspiring MERN Stack Developer passionate about scalable apps, clean UI/UX, DSA, and fitness 🏋️‍♂️
+### 👤 About Me
+
+- 🎓 Pursuing **BE in Computer Engineering** at Swaminarayan University, Gujarat
+- 💻 Aspiring **Full Stack Developer** specializing in the **MERN Stack**
+
+- 💡 Passionate about clean **UI/UX** & **performance optimization**
+- 🧠 Strong in **DSA & Problem Solving** — actively grinding [LeetCode](https://leetcode.com/u/Swaraj_Prajapati/)
+- 🤝 Love collaborating and working in **team environments**
+- 🏋️‍♂️ **Fun Fact:** When I'm not coding, you'll find me in the gym crushing **fitness & bodybuilding** goals!
 
 <br clear="right"/>
 
