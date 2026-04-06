@@ -32,6 +32,9 @@
 - 🏋️‍♂️ **Fun Fact:** When I'm not coding, you'll find me in the gym crushing **fitness & bodybuilding** goals!
 
 <br clear="right"/>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider">
+</div>
 
 ### 🌐 Connect With Me
 
