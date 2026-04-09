@@ -51,7 +51,7 @@
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
   &nbsp;
-  <a href="YOUR_RESUME_LINK_HERE" target="_blank">
+  <a href="https://swaraj-portfolio-alpha.vercel.app/Resume.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" />
   </a>
 </div>
